@@ -24,8 +24,48 @@ export const projects = [
     link: "http://codingkats.com/weatherapp/",
   },
   {
+    title: "Crwn-Clothing",
+    subtitle: "React, APIs, Firebase, Sass, Redux, Typescripting",
+    description:
+      "This is an e-commerce project that built with React using Firebase, Redux, Typescripting, Sass and APIs to a stripe non-production API. It was built for simplicy, ease of navigation and a consumer in mind.",
+    image: "./codingkats-logo.png",
+    link: "https://codingkats.com",
+  },
+  {
     title: "Coming soon",
-    subtitle: "React Hooks",
+    subtitle: "Rust",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./codingkats-logo.png",
+    link: "https://codingkats.com",
+  },
+  {
+    title: "Coming soon",
+    subtitle: "Coming soon",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./codingkats-logo.png",
+    link: "https://codingkats.com",
+  },
+  {
+    title: "Coming soon",
+    subtitle: "Coming soon",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./codingkats-logo.png",
+    link: "https://codingkats.com",
+  },
+  {
+    title: "Coming soon",
+    subtitle: "Coming soon",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./codingkats-logo.png",
+    link: "https://codingkats.com",
+  },
+  {
+    title: "Coming soon",
+    subtitle: "Coming soon",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./codingkats-logo.png",
@@ -44,5 +84,11 @@ export const skills = [
   "TypeScript",
   "Redux",
   "Docker",
-  "Resting APIs"
+  "Resting APIs",
+  "Firebase",
+  "Capstone",
+  "Serverless",
+  "GraphQL",
+  "Gatsby",
+  "Sass"
 ];
